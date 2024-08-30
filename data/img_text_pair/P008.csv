@@ -1,5 +1,5 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-0,P008,2036066,01:43:26,Files/thumbnail_2036066.jpg,Files/thumbnail_2036066.mpg,"mild edema, mild colitis, reduced vascularity"
-26,P008,2053279,02:01:45,Files/thumbnail_2053279.jpg,Files/thumbnail_2053279.mpg,splenic flexure image. angioectasia or tap
-27,P008,2053283,02:01:45,Files/thumbnail_2053283.jpg,Files/thumbnail_2053283.mpg, angioectasia
-34,P008,2054123,02:03:44,Files/thumbnail_2054123.jpg,Files/thumbnail_2054123.mpg,"marked redness, edema, no spontaneous bleeding, mayo 2"
+0,P008,2036066,01:43:26,files/thumbnail_2036066.jpg,Files/thumbnail_2036066.mpg,"mild edema, mild colitis, reduced vascularity"
+26,P008,2053279,02:01:45,files/thumbnail_2053279.jpg,Files/thumbnail_2053279.mpg,splenic flexure image. angioectasia or tap
+27,P008,2053283,02:01:45,files/thumbnail_2053283.jpg,Files/thumbnail_2053283.mpg, angioectasia
+34,P008,2054123,02:03:44,files/thumbnail_2054123.jpg,Files/thumbnail_2054123.mpg,"marked redness, edema, no spontaneous bleeding, mayo 2"
