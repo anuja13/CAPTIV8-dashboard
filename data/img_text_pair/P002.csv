@@ -1,6 +1,6 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-25,P002,2062085,02:48:06,Files/thumbnail_2062085.jpg,Files/thumbnail_2062085.mpg,biopsy
-44,P002,2086490,04:03:54,Files/thumbnail_2086490.jpg,Files/thumbnail_2086490.mpg,inflammation. reduced vascularity. edema
-49,P002,2094374,04:25:06,Files/thumbnail_2094374.jpg,Files/thumbnail_2094374.mpg,reduced vascularity
-50,P002,2094607,04:25:15,Files/thumbnail_2094607.jpg,Files/thumbnail_2094607.mpg,"reduced vascularity, edema"
+25,P002,2062085,02:48:06,files/thumbnail_2062085.jpg,Files/thumbnail_2062085.mpg,biopsy
+44,P002,2086490,04:03:54,files/thumbnail_2086490.jpg,Files/thumbnail_2086490.mpg,inflammation. reduced vascularity. edema
+49,P002,2094374,04:25:06,files/thumbnail_2094374.jpg,Files/thumbnail_2094374.mpg,reduced vascularity
+50,P002,2094607,04:25:15,files/thumbnail_2094607.jpg,Files/thumbnail_2094607.mpg,"reduced vascularity, edema"
 

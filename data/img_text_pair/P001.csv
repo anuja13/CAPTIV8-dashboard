@@ -1,6 +1,6 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-0,P001,2011660,01:07:51,Files/thumbnail_2011660.jpg,Files/thumbnail_2011660.mpg,first cecal image. 
-10,P001,2041070,01:41:13,Files/thumbnail_2041070.jpg,Files/thumbnail_2041070.mpg,inflammation 
-11,P001,2041900,01:42:14,Files/thumbnail_2041900.jpg,Files/thumbnail_2041900.mpg,biopsy
-17,P001,2043965,01:45:40,Files/thumbnail_2043965.jpg,Files/thumbnail_2043965.mpg,"proctits with reduced vascularity, edema."
+0,P001,2011660,01:07:51,files/thumbnail_2011660.jpg,Files/thumbnail_2011660.mpg,first cecal image. 
+10,P001,2041070,01:41:13,files/thumbnail_2041070.jpg,Files/thumbnail_2041070.mpg,inflammation 
+11,P001,2041900,01:42:14,files/thumbnail_2041900.jpg,Files/thumbnail_2041900.mpg,biopsy
+17,P001,2043965,01:45:40,files/thumbnail_2043965.jpg,Files/thumbnail_2043965.mpg,"proctits with reduced vascularity, edema."
 

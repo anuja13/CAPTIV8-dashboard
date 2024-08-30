@@ -1,6 +1,6 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-19,P004,2018961,02:38:47,Files/thumbnail_2018961.jpg,Files/thumbnail_2018961.mpg,normal vascularity
-32,P004,2026034,02:48:55,Files/thumbnail_2026034.jpg,Files/thumbnail_2026034.mpg,lipoma in the gut wall
-144,P004,2083502,05:32:22,Files/thumbnail_2083502.jpg,Files/thumbnail_2083502.mpg,reduced vascularity and slight edema
-151,P004,2084029,05:32:53,Files/thumbnail_2084029.jpg,Files/thumbnail_2084029.mpg,"inflammation, hyperemic , mayo 1"
+19,P004,2018961,02:38:47,files/thumbnail_2018961.jpg,Files/thumbnail_2018961.mpg,normal vascularity
+32,P004,2026034,02:48:55,files/thumbnail_2026034.jpg,Files/thumbnail_2026034.mpg,lipoma in the gut wall
+144,P004,2083502,05:32:22,files/thumbnail_2083502.jpg,Files/thumbnail_2083502.mpg,reduced vascularity and slight edema
+151,P004,2084029,05:32:53,files/thumbnail_2084029.jpg,Files/thumbnail_2084029.mpg,"inflammation, hyperemic , mayo 1"
 

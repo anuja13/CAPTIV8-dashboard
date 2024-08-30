@@ -1,6 +1,6 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-0,P003,2017570,01:34:11,Files/thumbnail_2017570.jpg,Files/thumbnail_2017570.mpg,first cecal image. 
-1,P003,2029031,01:42:17,Files/thumbnail_2029031.jpg,Files/thumbnail_2029031.mpg,last cecal image. 
-4,P003,2044559,02:15:10,Files/thumbnail_2044559.jpg,Files/thumbnail_2044559.mpg,slightly reduced  vascularity
-5,P003,2044675,02:15:13,Files/thumbnail_2044675.jpg,Files/thumbnail_2044675.mpg,slightly reduced  vascularity
+0,P003,2017570,01:34:11,files/thumbnail_2017570.jpg,Files/thumbnail_2017570.mpg,first cecal image. 
+1,P003,2029031,01:42:17,files/thumbnail_2029031.jpg,Files/thumbnail_2029031.mpg,last cecal image. 
+4,P003,2044559,02:15:10,files/thumbnail_2044559.jpg,Files/thumbnail_2044559.mpg,slightly reduced  vascularity
+5,P003,2044675,02:15:13,files/thumbnail_2044675.jpg,Files/thumbnail_2044675.mpg,slightly reduced  vascularity
 

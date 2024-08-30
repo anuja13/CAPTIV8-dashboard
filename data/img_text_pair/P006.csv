@@ -1,7 +1,7 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-0,P006,2032209,01:46:52,Files/thumbnail_2032209.jpg,Files/thumbnail_2032209.mpg,"no  inflammation or redness around, probably mucus"
-22,P006,2055143,02:05:28,Files/thumbnail_2055143.jpg,Files/thumbnail_2055143.mpg,erosion
-32,P006,2059158,02:08:00,Files/thumbnail_2059158.jpg,Files/thumbnail_2059158.mpg,inflamed  lesion probably in the ascending colon 
-52,P006,2066298,02:12:47,Files/thumbnail_2066298.jpg,Files/thumbnail_2066298.mpg,"small polyp in the ascending colon,  looks benign"
+0,P006,2032209,01:46:52,files/thumbnail_2032209.jpg,Files/thumbnail_2032209.mpg,"no  inflammation or redness around, probably mucus"
+22,P006,2055143,02:05:28,files/thumbnail_2055143.jpg,Files/thumbnail_2055143.mpg,erosion
+32,P006,2059158,02:08:00,files/thumbnail_2059158.jpg,Files/thumbnail_2059158.mpg,inflamed  lesion probably in the ascending colon 
+52,P006,2066298,02:12:47,files/thumbnail_2066298.jpg,Files/thumbnail_2066298.mpg,"small polyp in the ascending colon,  looks benign"
 
 

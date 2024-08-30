@@ -1,6 +1,6 @@
 Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
-0,P009,2006227,01:02:51,Files/thumbnail_2006227.jpg,Files/thumbnail_2006227.mpg, lipoma  
-10,P009,2159154,04:21:55,Files/thumbnail_2159154.jpg,Files/thumbnail_2159154.mpg,"mild edema, reduced vascularity, mild colitis, (top right)"
-24,P009,2194788,05:00:25,Files/thumbnail_2194788.jpg,Files/thumbnail_2194788.mpg,"mild colitis, no bleedings, no  fibrin deposits. slight edema and reduced vascularity"
-41,P009,2272958,06:06:38,Files/thumbnail_2272958.jpg,Files/thumbnail_2272958.mpg,"proctitis, in the rectum, edema, reduced vascularity , no bleedings or fibrin. mayo 1"
+0,P009,2006227,01:02:51,files/thumbnail_2006227.jpg,Files/thumbnail_2006227.mpg, lipoma  
+10,P009,2159154,04:21:55,files/thumbnail_2159154.jpg,Files/thumbnail_2159154.mpg,"mild edema, reduced vascularity, mild colitis, (top right)"
+24,P009,2194788,05:00:25,files/thumbnail_2194788.jpg,Files/thumbnail_2194788.mpg,"mild colitis, no bleedings, no  fibrin deposits. slight edema and reduced vascularity"
+41,P009,2272958,06:06:38,files/thumbnail_2272958.jpg,Files/thumbnail_2272958.mpg,"proctitis, in the rectum, edema, reduced vascularity , no bleedings or fibrin. mayo 1"
 
