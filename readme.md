@@ -1,4 +1,4 @@
-https://ancientpolychromy.streamlit.app/
+
 
 --------------------
 GENERAL INFORMATION
@@ -47,76 +47,6 @@ CAPTIV8_meta_frame_video.xlsx
 
 
 3. Is this a new version of a previously published dataset? no
-
---------------------
-DATA & FILE OVERVIEW
---------------------
-// File List: 
-CAPTIV8 dataset
-│   
-└───0_readme.txt							plain text file containing information on the dataset.
-│
-└───CAPTIV8_diagnostic_data.xlsx			Excel file containing metadata information.
-│
-└───CAPTIV8_meta_frame_video.xlsx			Excel file containing frames and video segemnts for each patints along with text descriptions and corresponding paths.
-│
-└───CAPTIV8_diagnostic_data_csv.zip			Same as CAPTIV8_diagnostic_data.xlsx, but in csv format, the excel is for better visualization and csv for ease of use and compatibility.
-|	|	│
-|	|	└───P001.csv
-|	|	|	P002.csv 
-|	|	|	...		
-│	|	|	
-└───CAPTIV8_meta_frame_video_csv.zip		Same as CAPTIV8_meta_frame_video.xlsx, but in csv format, the excel is for better visualization and csv for ease of use and compatibility.
-|	|	│
-|	|	└───P001.csv
-|	|	|	P002.csv 
-|	|	|	...		
-│	|	|	
-└───Frames_and_videos.zip					Folder containing the frames and video segments.
-|   |	normal frames						Additional normal frames provided for use.
-|	|	│
-|	|	└───normal__1.mpg
-|	|	|	normal__2.mpg 
-|	|	|	...							
-|   |   P001								Folder containing abnormal images and videos for P001
-|	|	│
-|	|	└───Files
-|	|	|	│
-|	|	|	└───
-|	|	|	|	img1.jpg
-|	|   |	|   video1.mpg
-|	|   |   |   img2.jpg
-|	|	| 	|	video2.mpg
-|	|	|	|	...
-|   |   P002								Folder containing abnormal images and videos for P002
-|	|	│
-|	|	└───Files
-|	|	|	│
-|	|	|	└───
-|	|	|	|	img1.jpg
-|	|   |	|   video1.mpg
-|	|   |   |   img2.jpg
-|	|	| 	|	video2.mpg
-|	|	|	|	...
-|   |   P003								Folder containing abnormal images and videos for P003
-|	|	│
-|	|	└───Files
-|	|	|	│
-|	|	|	└───
-|	|	|	|	img1.jpg
-|	|   |	|   video1.mpg
-|	|   |   |   img2.jpg
-|	|	| 	|	video2.mpg
-|	|	|	|	...
-│	|
-└───PillCam_calibration_data				Folder containing images and video for pillcam calibration.
-│   │	│
-│   │	└───readme.txt						plain text file containing information on the calibration setup.	
-│   │	│   1.png			
-│   │	│   2.png
-│   │	│   ...
-│   │	└───video.mpg	
-			
 
 ---------------------------
 METHODOLOGICAL INFORMATION
