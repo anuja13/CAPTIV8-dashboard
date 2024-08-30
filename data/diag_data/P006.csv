@@ -1,0 +1,20 @@
+No.,Attribute,Value
+0,reasonforreferral,planned control
+1,summary,recommend to repeat colonoscopy in 1 year instead of three.
+2,start_recording_time, 11:29:01
+3,end_recording_time, 15:25:38
+4,colon_passagetime,1h 0m
+5,Patient_ID,P006
+6,COLONOSCOPY," Normal conditions when inspecting the area perianally and at rectal exploration. Slightly blurred vascular pattern in the rectum, otherwise normal. Comes reasonably well to cecum. Slightly poor pre-emptying. However, no serious pathology has been seen in any part of the colon. Biopsies have been taken from all colon segments.
+Conclusion: Coloscopy of the cecum. Apart from the slightly blurred vascular pattern in the rectum, the conditions are normal."
+7,HISTOLOGY,Biopsies from colorectal mucosa with slight edema in places. No inflammation or dysplasia detected in biopsy sets.
+8,CLEANSING, BCS 2
+9,SCREENING, complete 
+10,MAYO RECTUM,mayo  0-1
+11,MAYO SIGMOID,mayo  1
+12,MAYO ASCENDING,mayo  1
+13,MAYO DESCENDING,mayo 0
+14,MAYO TRANSVERSE,mayo 0
+15,WCE DIAGNOSIS," ulcerative colitis with erosions, small polyps, 1 diverticulum and small erosions in the small bowel. Proctitis."
+16,CHANGE IN FINDINGS,"  found erosions more extensive than colonoscopy, and also found small polyps not found in colonoscopy. "
+17,significant images,141

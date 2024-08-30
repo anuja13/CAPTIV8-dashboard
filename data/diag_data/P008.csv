@@ -1,0 +1,19 @@
+No.,Attribute,Value
+0,reasonforreferral,planned control
+1,summary,Probably change the treatment according to doctors advice.
+2,start_recording_time, 10:27:43
+3,end_recording_time, 13:02:36
+4,colon_passagetime,0h 20m
+5,Patient_ID,P008
+6,COLONOSCOPY," no hint of inflammation anywhere. On the way up we saw some red spots in the rectum, but on the way out they were almost completely gone. In retroflexion, we saw no inflammation completely distal. no active colitis. The small redness that we saw in a small place in the rectum is probably due to the capsule that was there before it came out. Failed colonoscopy due to miserable emptying. This is probably because he has not received emptying fluid today or yesterday afternoon. We saw a good part of the intestine, and saw no active colitis. The small redness that we saw in a small place in the rectum is probably due to the capsule that was there before it came out. This did not resemble ulcerative proctitis."
+7,HISTOLOGY, Not performed due to poor emptying during colonoscopy.
+8,CLEANSING,  BCS 2
+9,WCE DIAGNOSIS," pan colitis, inflammation affecting the whole colon, most pronounced in rectum. Mayo 2."
+10,MAYO RECTUM, mayo 2
+11,MAYO SIGMOID, mayo 1 
+12,MAYO DESCENDING, mayo 1
+13,MAYO ASCENDING, mayo 1
+14,MAYO TRANSVERSE, mayo 1
+15,SCREENING, complete
+16,CHANGE IN FINDINGS," The colonoscopy found no active inflammation while the capsule finds pancolitis with Mayo 2.  Huge difference in findings, probably due to poor  cleansing."
+17,significant images,42

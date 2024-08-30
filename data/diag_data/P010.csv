@@ -1,0 +1,20 @@
+No.,Attribute,Value
+0,reasonforreferral,planned control
+1,summary,continue as planned
+2,start_recording_time, 10:12:35
+3,end_recording_time, 16:44:38
+4,colon_passagetime,2h 28m
+5,Patient_ID,P010
+6,COLONOSCOPY,"Normal conditions during inspection over the area perianally and during rectal exploration. Goes in with the scope. There are normal conditions in the rectum. Not quite well drained in some parts of the colon and there was some liquid feces everywhere. However, you rinse and rinse and get a pretty good overview. Can not see any pathology except in the cecum area where there are slightly spotted changes in the mucosa. No spontaneous bleeding. biopsies are taken from all colon sections.
+
+Conclusion : Colonoscopy for cecum. Apart from slightly spotted changes in the cecum area, these are normal findings."
+7,HISTOLOGY,1: Cecum mucosa with focal acute and chronic inflammation.2-5: Colon and rectal mucosa without proven morbid changes.
+8,CLEANSING, BCS2
+9,SCREENING, complete
+10,MAYO RECTUM, mayo 0
+11,MAYO ASCENDING \ cecum, mayo 1
+12,MAYO DESCENDING, mayo 0
+13,MAYO TRANSVERSE, mayo  0
+14,WCE DIAGNOSIS," Ulcerative colitis in cecum+ascending colon, small polyps in small bowel and some deposits. 3 or 4 small polyps in the left side of colon and hemorrhoids "
+15,CHANGE IN FINDINGS," main finding remains same, except from small polyps in left side of colon and hemorrhoids seen additionally in WCE"
+16,significant images,216

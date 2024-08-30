@@ -1,0 +1,21 @@
+No.,Attribute,Value
+0,reasonforreferral,planned control
+1,summary,continue as planned
+2,start_recording_time, 10:10:27
+3,end_recording_time,03:05:20
+4,colon_passagetime,14h 12m
+5,Patient_ID,P007
+6,COLONOSCOPY," Normal conditions when inspecting the area perianally and during rectal exploration. In the rectum there is some blurred vascular pattern, but there is no spontaneous bleeding. Just sees a drop in fibrin. MAYO 1-2. About 18 cm inside the anus you find the capsule. You go in with a net and pick it up. Goes upwards and there are almost normal conditions in both the sigmoid descending and the transverse. In the ascending and cecum there are quite slight inflammatory changes. Slight pre-emptying in the right colon half. Biopsies are taken from all colon sections.
+
+Conclusion: Coloscopy of the cecum. Mild inflammatory changes (MAYO 1) in the cecum and ascending. Similar changes in the rectum, perhaps a little more pronounced. In between these areas it is normal."
+7,HISTOLOGY,Colon mucosa without proven morbid changes. Rectal mucosa with chronic activity with crypt abscesses. May fit with active ulcerative colitis.
+8,CLEANSING, BCS 3
+9,SCREENING, incomplete
+10,MAYO RECTUM,mayo 1
+11,MAYO SIGMOID,mayo 0
+12,MAYO ASCENDING,mayo 1
+13,MAYO DESCENDING, mayo 0
+14,MAYO TRANSVERSE, mayo 0
+15,WCE DIAGNOSIS,"  Ulcerative coliotis in cecum , ascending colon and rectum, angioectasia  in the left side of colon, small 'wharts' and ersosions  in small bowels. "
+16,CHANGE IN FINDINGS,  angioectasia  in the left side of colon.
+17,significant images,444

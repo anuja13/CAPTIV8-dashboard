@@ -1,0 +1,20 @@
+No.,Attribute,Value
+0,reasonforreferral,Planned control
+1,summary,"Stable conditions.
+Polyp, not dangerous, was found.
+No further follow-ups. "
+2,start_recording_time, 09:13:55
+3,end_recording_time,12:32:20
+4,colon_passagetime,0h 41m
+5,Patient_ID,P003
+6,COLONOSCOPY," In the rectum, slightly reduced vascular pattern is seen. Approximately 6 cm proximal from the anus a polyp is seen, 6mm in diameter and looks hyperplastic. Biopsy of the polyp is taken. Normal findings in cecum, colon ascending, right flexure, transverse, left flexure, colon descending and sigmoid, but there is a mild grade of proctitis. Biopsy is taken from every main part of colon. Conclusion :  Very mild proctitis (mayo 1) and small polyp in rectum."
+7,HISTOLOGY," 1-5. Colon (cecum / ascending, transverse, descending, sigmoid) and rectum mucosa without proven pathological changes. Rectal mucosa with hyperplastic polyp. No evidence of dysplasia or malignancy."
+8,SCREENING, Complete
+9,CLEANSING, BCS 3
+10,WCE DIAGNOSIS,  Ulcerative proctitis
+11,MAYO RECTUM, mayo 1
+12,MAYO DESCENDING, none
+13,MAYO ASCENDING, none
+14,MAYO TRANSVERSE, None
+15,CHANGE IN FINDINGS,  One polyp (rectum) was not seen in the capsule examination (but was found on  colonoscopy)
+16,significant images,8

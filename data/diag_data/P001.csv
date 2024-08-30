@@ -1,0 +1,18 @@
+No.,Attribute,Value
+0,reasonforreferral,Planned control
+1,summary,Continue the medication and further controls with GI doctor.
+2,start_recording_time,10:04:42
+3,end_recording_time,12:20:37
+4,colon_passagetime,0h 37m
+5,Patient_ID,P001
+6,COLONOSCOPY," Normal conditions when inspecting the perianal area above the rectal examination. Approximately 3-4 cm proximal from the  anal opening there was a small area with inflammation. This area measured around 2 cm in diameter and bear marks of chronic inflammation. No  spontaneous bleeding or fibrin, a biopsy of this area is taken.  Otherwise normal findings in the rectum, except slightly reduced vascularity. There is some scattered diverticulas, mainly in the ascending part of colon. Otherwise normal findings. Conclusion : some diverticula in the right half of colon. a small area in rectum with inflammation."
+7,HISTOLOGY, 1-4: Colon mucosa without proven pathological changes. 5: Colorectal mucosa with a slight degree of active inflammation.
+8,SCREENING, Complete
+9,CLEANSING, BCS 3
+10,WCE DIAGNOSIS,  Ulcerative proctitis.
+11,MAYO RECTUM, mayo 1
+12,MAYO ASCENDING, None
+13,MAYO DESCENDING, None
+14,MAYO TRANSVERSE, None
+15,CHANGE IN FINDINGS, None
+16,significant images,20

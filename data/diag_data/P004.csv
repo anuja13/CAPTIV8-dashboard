@@ -1,0 +1,19 @@
+No.,Attribute,Value
+0,reasonforreferral,planned control
+1,summary,"Continue the medication and further controls with GI doctor.
+"
+2,start_recording_time,09:09:55
+3,end_recording_time,15:18:16
+4,colon_passagetime,3h 22m
+5,Patient_ID,P004
+6,COLONOSCOPY," Normal conditions when inspecting the area perianally and during rectal exploration. Normal conditions in the rectum except that there is some hyperemia, reduced vascular pattern and slight edema. These changes are seen all the way up to proxy in the transverse. In the cecum ascendens, the condition is normal. There is some stool in the right colon. Biopsies are taken from all colon sections. Conclusion: Colonoscopy of the cecum. Moderate colitis from the transverse to the rectum. It is classified as MAYO 1. In the ascending cecum it is MAYO 0. "
+7,HISTOLOGY, 1-5: Colon mucosal biposia (colon / rectum) without proven pathological changes. No inflammation detected.
+8,SCREENING, Complete
+9,CLEANSING, BCS 3
+10,WCE DIAGNOSIS, left sided mild ulcerative colitis.
+11,MAYO RECTUM, mayo 1
+12,MAYO ASCENDING, mayo 0
+13,MAYO DESCENDING, mayo 1
+14,MAYO TRANSVERSE, mayo 0-1
+15,CHANGE IN FINDINGS, None
+16,significant images,172

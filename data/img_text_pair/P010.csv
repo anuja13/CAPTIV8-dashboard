@@ -1,0 +1,6 @@
+Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
+19,P010,2046994,03:15:30,Files/thumbnail_2046994.jpg,Files/thumbnail_2046994.mpg,slight inflammation
+189,P010,2120422,05:54:51,Files/thumbnail_2120422.jpg,Files/thumbnail_2120422.mpg,small polyp
+201,P010,2121808,05:57:35,Files/thumbnail_2121808.jpg,Files/thumbnail_2121808.mpg,slight inflammation
+204,P010,2121959,05:57:40,Files/thumbnail_2121959.jpg,Files/thumbnail_2121959.mpg,hemorrhoids 
+

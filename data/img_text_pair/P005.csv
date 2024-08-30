@@ -1,0 +1,5 @@
+Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
+46,P005,2205294,06:30:15,Files/thumbnail_2205294.jpg,Files/thumbnail_2205294.mpg,"inflammation hyperemic , slight edema, reduced vascularity, fibrin deposits, no spontaneous bleeding , mayo 2"
+69,P005,2217081,07:19:21,Files/thumbnail_2217081.jpg,Files/thumbnail_2217081.mpg,"inflammation hyperemic , slight edema, reduced vascularity, fibrin deposits, no spontaneous bleeding , mayo 2"
+179,P005,2225040,07:38:37,Files/thumbnail_2225040.jpg,Files/thumbnail_2225040.mpg,"pseudopolyps,  inflammation hyperemic , slight edema, reduced vascularity, fibrin deposits, no spontaneous bleeding , mayo 2, "
+180,P005,2225276,07:38:45,Files/thumbnail_2225276.jpg,Files/thumbnail_2225276.mpg,hemorrhoids 

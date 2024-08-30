@@ -1,0 +1,18 @@
+No.,Attribute,Value
+0,reasonforreferral,planned control
+1,summary,continue the same medication.
+2,start_recording_time, 10:32:41
+3,end_recording_time, 18:06:36
+4,colon_passagetime,2h 35m
+5,Patient_ID,P009
+6,COLONOSCOPY, Normal conditions when inspecting the area perianally and during rectal exploration. Slightly blurred vascular pattern in the rectum otherwise normal.  A small polyp (approx 40 cm from anus) in the sigmoid. The polyp is approx 3 mm in diameter and removed with biopsy forceps. Conclusion : Slightly blurred vascular pattern in the rectum and a small polyp in sigmoid.
+7,HISTOLOGY,"1-3,5. Colon mucosa (cecum / ascending, transvers, descending) and rectum mucosa  without detected pathological changes. 4. Colon mucosa (sigmoid) with inflammatory polyp, without dysplasia."
+8,SCREENING, complete 
+9,CLEANSING, BCS 1
+10,WCE DIAGNOSIS," Ulcerative colitis, both in rectum , transverse colon and descending colon, small changes in the sigmoid colon. Mayo 1"
+11,MAYO RECTUM, mayo 1
+12,MAYO ASCENDING, None
+13,MAYO DESCENDING, None
+14,MAYO TRANSVERSE, None
+15,CHANGE IN FINDINGS," Colonoscopy detects slightly reduced vascularity and a small polyp, but WCE diagnosis finds ulcerative colitis and  hemorrhoids . WCE misses polyp seen in colonoscopy."
+16,significant images,54

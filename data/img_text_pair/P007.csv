@@ -1,0 +1,6 @@
+Unnamed: 0,Patient ID,name,capture_time,image_path,video_path,image_label
+13,P007,2006581,01:14:32,Files/thumbnail_2006581.jpg,Files/thumbnail_2006581.mpg,small wharts in the small bowel
+28,P007,2043700,02:28:16,Files/thumbnail_2043700.jpg,Files/thumbnail_2043700.mpg,"pale, reduced vascularity and slight edema"
+155,P007,2129107,05:54:25,Files/thumbnail_2129107.jpg,Files/thumbnail_2129107.mpg,inflammation  with erosion and fibrin
+161,P007,2129181,05:54:27,Files/thumbnail_2129181.jpg,Files/thumbnail_2129181.mpg," marked veins in the rectum, inflammation in the rectum"
+
