@@ -30,7 +30,7 @@ st.markdown("To facilitate this, the setup shown below was used. One camera was 
             solely by the PillCam’s light source, the box in (a) was covered with black absorbing material and sealed, minimizing the influence of ambient light.")
 
 
-st.image(image="data/picture1.svg", caption="(a) PillCam camera calibration setup: 1. black cloth \
+st.image(image="data/Picture1.svg", caption="(a) PillCam camera calibration setup: 1. black cloth \
          2. box with light absorbing material \
          3. ColorChecker 4. PillCam stand 5. checkerboard. \
          (b) Capture of the ColorChecker \
